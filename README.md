@@ -12,3 +12,5 @@ ir al carrito
 6. Remover los items agregados
 7. Verificar que los items fueron removidos
 8. Verificar que el icono del carrito no tiene ningun numero
+
+### Pruebas automatizadas de Testlink.
